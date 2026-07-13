@@ -1,13 +1,13 @@
 <?php
 
-$lang['settings_paymentmethod_cashi_base_url']         = 'رابط API الخاص بـ Cashi';
-$lang['settings_paymentmethod_cashi_api_key']          = 'مفتاح API الخاص بـ Cashi';
+$lang['settings_paymentmethod_cashi_base_url']         = 'رابط API الخاص بـ كاشي';
+$lang['settings_paymentmethod_cashi_api_key']          = 'مفتاح API الخاص بـ كاشي';
 $lang['settings_paymentmethod_cashi_rate']             = 'سعر الصرف: 1 %s = ؟ جنيه سوداني';
 $lang['settings_paymentmethod_cashi_poll_interval']    = 'الفاصل الزمني للتحقق من حالة الدفع في صفحة الدفع (بالثواني)';
-$lang['cashi_connection_error']                        = 'تعذر الاتصال ببوابة الدفع Cashi، يرجى المحاولة مرة أخرى أو اختيار طريقة دفع أخرى';
+$lang['cashi_connection_error']                        = 'تعذر الاتصال ببوابة الدفع كاشي، يرجى المحاولة مرة أخرى أو اختيار طريقة دفع أخرى';
 $lang['cashi_payment_not_completed']                   = 'لم تكتمل عملية الدفع';
 $lang['cashi_no_exchange_rate']                        = 'لا يوجد سعر صرف مُعد لعملة هذه الفاتورة في إعدادات كاشي، يرجى التواصل مع الإدارة';
-$lang['cashi_pay_title']                               = 'الدفع عبر Cashi';
+$lang['cashi_pay_title']                               = 'الدفع عبر كاشي';
 $lang['cashi_pay_heading']                             = 'امسح رمز QR للدفع عبر تطبيق ماي كاشي';
 $lang['cashi_pay_reference']                           = 'رقم السداد';
 $lang['cashi_pay_amount']                              = 'المبلغ';
